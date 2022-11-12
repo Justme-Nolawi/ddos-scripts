@@ -62,31 +62,38 @@ def buildblock(size):
 def usage():
 	print '---------------------------------------------------'
 	print 'USAGE: python m60.py <url>'
-	print 'The m60 was one governamental ddos the distribuition of this is limited Created by : Hax Stroke'
+	print 'The m60 was one governamental ddos the distribuition of this is limited Created by : Anonymous'
 	print "\a"
 print \
-"""            _________
-            /'        /|
-           /         / |_
-          /         /  //|
-         /_________/  ////|
-        |   _ _    | 8o////|
-        | /'// )_  |   8///|
-        |/ // // ) |   8o///|
-        / // // //,|  /  8//|
-       / // // /// | /   8//|
-      / // // ///__|/    8//|
-     /.(_)// /// |       8///|
-    (_)' `(_)//| |       8////|___________
-   (_) /_\ (_)'| |        8///////////////
-   (_) \"/ (_)'|_|         8/////////////
-    (_)._.(_) d' Hb         8oooooooopb'
-      `(_)'  d'  H`b
-            d'   `b`b
-           d'     H `b
-          d'      `b `b
-         d'           `b
-        d'             `b  
+"""         :hyyyyyyyyyyyyyyyyh+  shyyyyyyyyyyyyyyyyyyyhh`  
+  /d .------------- yo  h+ -----------------`.N`  
+  /d hMMMMMMMMMMMMm yo  h+`MMMMMMMMMMMMMMMMM/.N`  
+  /d hMMMMMMMMMMMMm yo  h+`MMMMMMMMMMMMMMMMM/.N`  
+  /d hMMMMMMMMMMMMm yo  h+`MMMMMMMMMMMMMMMMM/.N`  
+  /d````mMMMMMMN.```yo  ho`.``-hMMMMMMMMy.`.`.N`  
+  -yydy mMMMMMMN`omyy/  +Nm/`oNMMMMMMMd- /dyyss`  
+     oy mMMMMMMN`oy    -do`/mMMMMMMMN+ -ds`       
+     oy mMMMMMMN`oy  `yh..hMMMMMMMMs``yh.         
+     oy mMMMMMMN`oy +d:`sMMMMMMMMh- +d:           
+     oy mMMMMMMN`oddo`/NMMMMMMMm/ :do`            
+     oy mMMMMMMN`oy.-dMMMMMMMMo`.yy.              
+     oy mMMMMMMN```yMMMMMMMMh. od:                
+     oy mMMMMMMN`+NMMMMMMMm: :d+                  
+     oy mMMMMMMMmMMMMMMMMN- .mo                   
+     oy mMMMMMMMMMMMMMMMMMMo``od:                 
+     oy mMMMMMMMMMMMMMMMMMMMm/ .yy.               
+     oy mMMMMMMMMMMNooNMMMMMMMh- :do              
+     oy mMMMMMMMMMy.-..yMMMMMMMMs` +d:            
+     oy mMMMMMMMm:`shho`:mMMMMMMMN+ `yh.          
+     oy mMMMMMMN`:m:  /d/ +NMMMMMMMd- -do`        
+     oy mMMMMMMN`oh    `sh-`yMMMMMMMMy` +d/       
+  :dyho mMMMMMMN`+dyho  sdd+ -dMMMMMMMN+ `syyyh`  
+  /d -::NMMMMMMM/:: os  h+ ::::yMMMMMMMMm/::`-N`  
+  /d hMMMMMMMMMMMMM`os  h+`MMMMMMMMMMMMMMMMM/-N`  
+  /d hMMMMMMMMMMMMM`os  h+`MMMMMMMMMMMMMMMMM/-N`  
+  /d hMMMMMMMMMMMMN`os  h+`MMMMMMMMMMMMMMMMM/-N`  
+  /d................ss  ho...................:N`  
+  -oooooooooooooooooo:  /oooooooooooooooooooooo 
 """
 print '---------------------------------------------------'
 
@@ -155,7 +162,7 @@ else:
 		usage()
 		sys.exit()
 	else:
-		print "Ak 47 attack was been sended This tool is created by : Russian Hackers"
+		print "Ak 47 attack was been sended This tool is created by : Anonymous Hackers"
 		if len(sys.argv)== 3:
 			if sys.argv[2]=="safe":
 				set_safe()

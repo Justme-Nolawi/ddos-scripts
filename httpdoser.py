@@ -62,13 +62,13 @@ def buildblock(size):
 def usage():
 	print '---------------------------------------------------'
 	print 'USAGE: python httpdoser.py <url>'
-	print 'httpdoser website : KillerRoot'
+	print 'httpdoser website : DDoS Attack'
 	print "\a"
 print \
 """
                    ...
                  ;::::;   Http_Doser Starting...
-               ;::::; :;    By KillerRoot
+               ;::::; :;    By DDoS Attack Anonymous
              ;:::::'   :;
             ;:::::;     ;.
            ,:::::'       ;           OOO\
@@ -156,7 +156,7 @@ else:
 		usage()
 		sys.exit()
 	else:
-		print "Flooding WebSite Port 80 with 65000-byte packets for 99999 By Killer@Root"
+		print "Flooding WebSite Port 80 with 65000-byte packets for 99999 By DDoS Attack"
 		if len(sys.argv)== 3:
 			if sys.argv[2]=="safe":
 				set_safe()
